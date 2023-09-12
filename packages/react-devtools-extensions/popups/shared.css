@@ -1,0 +1,13 @@
+html, body {
+  font-size: 14px;
+}
+
+body {
+  margin: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
